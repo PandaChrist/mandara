@@ -17,7 +17,7 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link rel="stylesheet" href="style2.css">
+
   <link href="../vendor/animate.css/animate.min.css" rel="stylesheet">
   <link href="../vendor/aos/aos.css" rel="stylesheet">
   <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -28,11 +28,12 @@
 
   <!-- Template Main CSS File -->
   <link href="../css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="style2.css">
 
   <!-- =======================================================
   * Template Name: Restaurantly - v3.1.0
   * Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-  * Author: BootstrapMade.com
+  * Author: BootstrapMade.com & Christian Bakiti
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 </head>
@@ -44,7 +45,7 @@
     <div class="container d-flex justify-content-center justify-content-md-between">
 
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-phone d-flex align-items-center"><span>+1 5589 55488 55</span></i>
+        <i class="bi bi-phone d-flex align-items-center"><span>+237 682 76 26 24</span></i>
         <i class="bi bi-clock d-flex align-items-center ms-4"><span> Lundi-dimanche: 09h - 23h</span></i>
       </div>
 
@@ -218,7 +219,7 @@
         <div class="row menu-container" data-aos="fade-up" data-aos-delay="200">
 
           <div class="col-lg-6 menu-item filter-starters">
-            <img src="../img/menu/lobster-bisque.jpg" class="menu-img" alt="">
+            <img src="img/menu/sanga.png" class="menu-img" alt="">
             <div class="menu-content">
               <a href="#">Sangha</a><span>3 000 Fcfa</span>
             </div>
@@ -228,7 +229,7 @@
           </div>
 
           <div class="col-lg-6 menu-item filter-specialty">
-            <img src="../img/menu/bread-barrel.jpg" class="menu-img" alt="">
+            <img src="../img/menu/pile.png" class="menu-img" alt="">
             <div class="menu-content">
               <a href="#">Pile de pommes</a><span>3 500 Fcfa</span>
             </div>
@@ -238,9 +239,9 @@
           </div>
 
           <div class="col-lg-6 menu-item filter-starters">
-            <img src="../img/menu/cake.jpg" class="menu-img" alt="">
+            <img src="../img/menu/taro.png" class="menu-img" alt="">
             <div class="menu-content">
-              <a href="#">Attieke de poulet</a><span>4 000 Fcfa</span>
+              <a href="#">Taro</a><span>4 000 Fcfa</span>
             </div>
             <div class="menu-ingredients">
               A delicate crab cake served on a toasted roll with lettuce and tartar sauce
@@ -258,7 +259,7 @@
           </div>
 
           <div class="col-lg-6 menu-item filter-specialty">
-            <img src="../img/menu/tuscan-grilled.jpg" class="menu-img" alt="">
+            <img src="../img/menu/nkui.png" class="menu-img" alt="">
             <div class="menu-content">
               <a href="#">Couscous nkui</a><span>3 000 Fcfa</span>
             </div>
@@ -268,7 +269,7 @@
           </div>
 
           <div class="col-lg-6 menu-item filter-starters">
-            <img src="../img/menu/mozzarella.jpg" class="menu-img" alt="">
+            <img src="../img/menu/gombo.png" class="menu-img" alt="">
             <div class="menu-content">
               <a href="#">Couscous gombo</a><span>4 000 Fcfa</span>
             </div>
@@ -278,7 +279,7 @@
           </div>
 
           <div class="col-lg-6 menu-item filter-salads">
-            <img src="../img/menu/greek-salad.jpg" class="menu-img" alt="">
+            <img src="../img/menu/okok.png" class="menu-img" alt="">
             <div class="menu-content">
               <a href="#">Okok</a><span>4 000 Fcfa</span>
             </div>
@@ -288,7 +289,7 @@
           </div>
 
           <div class="col-lg-6 menu-item filter-salads">
-            <img src="../img/menu/spinach-salad.jpg" class="menu-img" alt="">
+            <img src="../img/menu/kondre.png" class="menu-img" alt="">
             <div class="menu-content">
               <a href="#">Kondrè</a><span>4 500 Fcfa</span>
             </div>
@@ -351,7 +352,7 @@
                     <p> le pilé de pomme de terre est l’une des spécialités du restaurant. Simple à digérer et savoureux, le plat idéal pour les adeptes de la cuisine généreuse.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="../img/specials-1.png" alt="" class="img-fluid">
+                    <img src="../img/menu/pile.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -519,7 +520,7 @@
           <p>Reservez une table</p>
         </div>
 
-        <form action="{{ route('reservation') }}" method="post" role="form" class="forme" data-aos="fade-up" data-aos-delay="100">
+        <form action="{{ route('reservation') }}" method="post" role="form" class="form-costum" data-aos="fade-up" data-aos-delay="100">
           
           <div class="row">
             <div class="col-lg-4 col-md-6 form-group">
@@ -583,7 +584,7 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="../img/temoignage/profile11.png" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
+                <h3>Mike Kamga</h3>
                 <h4>Ceo &amp; Founder</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -596,7 +597,7 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="../img/temoignage/profile22.png" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
+                <h3>Elvine Atangana</h3>
                 <h4>Designer</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -609,7 +610,7 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="../img/temoignage/profile33.png" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
+                <h3>Olivia Massock</h3>
                 <h4>Store Owner</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -622,7 +623,7 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="../img/temoignage/profile22.png" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
+                <h3>Ahmed Aboubacar</h3>
                 <h4>Freelancer</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -635,7 +636,7 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="../img/temoignage/profile11.png" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
+                <h3>Marc Eteme</h3>
                 <h4>Entrepreneur</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -956,7 +957,7 @@
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/restaurantly-restaurant-template/ -->
         <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
         
-        <!-- fait par BAKITI KAMGA NGUIFFO Christian. christianbakiti07@gmail.com -->
+        <!-- fait par BAKITI KAMGA NGUIFFO Christian. christianbakiti07@gmail.com  avec l'aide de bootstrapmade-->
         Par <a href="https://ibogagroup.com/">IBOGA GROUP</a>
       </div>
     </div>

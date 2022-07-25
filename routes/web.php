@@ -24,7 +24,7 @@ Route::get('/index', [
 );
 
 Route::get('/reservation/ListRerservation',[
-    'as'=>'admin',
+    'as'=>'listRerservation',
     'uses'=>'ReservationController@listReservation'
     ]
 );

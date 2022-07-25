@@ -1739,7 +1739,12 @@ section {
   height: 310px;
   object-fit: cover;
 }
-.formp input{
+.form input{
   border-color: #DFAD33;
   background-color: #1a1814;
+}
+.form-costum input{
+  border-color: white !important;
+  background-color: black;
+  border-width: 1px;
 }

@@ -43,7 +43,7 @@
     <div class="container d-flex justify-content-center justify-content-md-between">
 
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-phone d-flex align-items-center"><span>+1 5589 55488 55</span></i>
+        <i class="bi bi-phone d-flex align-items-center"><span>+237 682 76 26 24</span></i>
         <i class="bi bi-clock d-flex align-items-center ms-4"><span> Mon-Sat: 11AM - 23PM</span></i>
       </div>
 
@@ -134,12 +134,12 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Restaurantly</h3>
+              <h3>Mandara</h3>
               <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
+                Bonamoussadi <br>
+                Face pharmacie yoro Djoss, Douala, Cameroun<br><br>
+                <strong>Téléphone:</strong>+237 6 75 00 00 00<br>+237 6 99 00 00 00<br>
+                <strong>Email:</strong> info@mandara.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -152,30 +152,29 @@
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Liens utiles</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">A propos de nous</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Menu</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            <h4>Nos Evènements</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Anniversaire</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Greet &amp; Meet </a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Karaoke</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Mariage</a></li>
             </ul>
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <h4>Tennez-vous informé!</h4>
+            <p>Inscrivez-vous à notre newsletter et recevez toutes nos nouvelles promotions et informations </p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
@@ -195,7 +194,10 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/restaurantly-restaurant-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">Christian Bakiti</a>
+        <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
+        
+        <!-- fait par BAKITI KAMGA NGUIFFO Christian. christianbakiti07@gmail.com  avec l'aide de bootstrapmade-->
+        Par <a href="https://ibogagroup.com/">IBOGA GROUP</a>
       </div>
     </div>
   </footer><!-- End Footer -->

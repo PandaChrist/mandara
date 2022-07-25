@@ -37,6 +37,10 @@ class ReservationController extends Controller
         $idClient= $Reservations->idClient;
         
         // on instanci l'objet client
+
+        // ce code doit etre optimiser car a chaque fois qu'une reservation est creer, un client aussi
+        // or un client peut faire plusieur reservation et ne doit donc pas forcement etre enregistrer
+        // plusieurs fois en tant que client
         $Client = Clientr::find($idClient);
 
         return view('adminReservationForm')->with(['Reservations'=>$Reservations, 'Client'=>$Client]);
