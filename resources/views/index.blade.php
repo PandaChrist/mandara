@@ -521,7 +521,7 @@
         </div>
 
         <form action="{{ route('reservation') }}" method="post" role="form" class="form-costum" data-aos="fade-up" data-aos-delay="100">
-          
+          @csrf
           <div class="row">
             <div class="col-lg-4 col-md-6 form-group">
               <input type="text" name="name" class="form-control" id="name" placeholder="Votre Nom" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
