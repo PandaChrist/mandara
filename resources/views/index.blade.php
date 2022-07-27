@@ -557,7 +557,7 @@
             <div class="error-message"> Une erreur est survenu lors de votre reservation. veuillez reéssayer</div>
             <div class="sent-message">Votre demande de reservation a été envoyé. Nous vous rappelerons ou enverons un message pour confirmer la reservation. Merci!</div>
           </div> --}}
-          <input type="hidden" name="_token" value="{{ csrf_token() }}">
+          {{-- <input type="hidden" name="_token" value="{{ csrf_token() }}"> --}}
           <div class="text-center"><button type="submit">Reserver</button></div>
         </form>
 
