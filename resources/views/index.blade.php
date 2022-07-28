@@ -352,7 +352,7 @@
                     <p> le pilé de pomme de terre est l’une des spécialités du restaurant. Simple à digérer et savoureux, le plat idéal pour les adeptes de la cuisine généreuse.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="../img/menu/pile.png" alt="" class="img-fluid">
+                    <img src="../img/menu/pile-circle.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -364,7 +364,7 @@
                     <p>Feuilles d’okok, arachides, huile de palme voilà ce qui le composent. Certains le préfèrent  voluptueux et sucré, d’autres plus enrobé et garnie de toutes sortent d’espèces fumées ou cuites. </p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="../img/specials-2.png" alt="" class="img-fluid">
+                    <img src="../img/menu/okok-circle.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -376,7 +376,7 @@
                     <p> A base de taro et d’huile végétale, ce plat est accompagné de tripes de bœuf, de poulet fumé ou frit ou, de viande de bœuf. La sauce jaune est un mélange de dizaine d’épices africaines ce qui la rend savoureuse et unique. </p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="../img/specials-3.png" alt="" class="img-fluid">
+                    <img src="../img/menu/taro-circle.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -388,7 +388,7 @@
                     <p>Préparé avec de la viande de bœuf, de mouton, de chèvre ou avec du poulet et même du poisson frais ou fumé, ce plat est riche en gout et s'accompagne de couscous maïs.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="../img/specials-4.png" alt="" class="img-fluid">
+                    <img src="../img/menu/gombo-circle.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -400,7 +400,7 @@
                     <p> Il désigne aussi bien la sauce que les tiges (triumfetta) qui lui donnent sa consistance gluante. Seuls les irréductibles aventureux connaissent le gout d’un plat de nkui fumant accompagné exclusivement de couscous. Pas besoin d’une cuillère ou d’une fourchette, le plaisir réside au bout des doigts. Ce plat aux douze condiments saura ravir vos papilles.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="../img/specials-5.png" alt="" class="img-fluid">
+                    <img src="../img/menu/nkui-circle.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
