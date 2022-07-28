@@ -520,8 +520,8 @@
           <p>Reservez une table</p>
         </div>
 
-        <form action="{{ route('reservation') }}" method="post" role="form" class="form-costum" data-aos="fade-up" data-aos-delay="100">
-          @csrf
+        <form action="{{ route('reservation') }}" method="post" role="form" class="formp" data-aos="fade-up" data-aos-delay="100">
+          
           <div class="row">
             <div class="col-lg-4 col-md-6 form-group">
               <input type="text" name="name" class="form-control" id="name" placeholder="Votre Nom" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
@@ -558,6 +558,7 @@
             <div class="sent-message">Votre demande de reservation a été envoyé. Nous vous rappelerons ou enverons un message pour confirmer la reservation. Merci!</div>
           </div> --}}
           {{-- <input type="hidden" name="_token" value="{{ csrf_token() }}"> --}}
+          <input type="hidden" name="_token" value="{{ csrf_token() }}">
           <div class="text-center"><button type="submit">Reserver</button></div>
         </form>
 

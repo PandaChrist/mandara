@@ -26,7 +26,7 @@
         </div> 
 
         <input type="hidden" name="_token" value="{{ csrf_token() }}">
-        <div class=""><button type="submit">{{ isset($Table)?'Mettre à Jour' : 'Création de Tables'}} </button></div>
+        <div class=""><button type="submit">{{ isset($Table)?'Mettre à Jour' : 'Création de Tables'}}</button></div>
       </form>
 
     </div>
