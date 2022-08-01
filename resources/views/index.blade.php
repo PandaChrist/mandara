@@ -28,7 +28,7 @@
 
   <!-- Template Main CSS File -->
   <link href="../css/style.css" rel="stylesheet">
-  <link rel="stylesheet" href="style2.css">
+  <link rel="stylesheet" href="css/style2.css">
 
   <!-- =======================================================
   * Template Name: Restaurantly - v3.1.0
@@ -540,7 +540,7 @@
               <div class="validate"></div>
             </div>
             <div class="col-lg-4 col-md-6 form-group mt-3">
-              <input type="number" class="form-control" name="time" id="time" placeholder="heure" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+              <input type="time" class="form-control" name="time" id="time" placeholder="heure" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
               <div class="validate"></div>
             </div>
             <div class="col-lg-4 col-md-6 form-group mt-3">

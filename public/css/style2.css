@@ -1,6 +1,5 @@
- div{
-    color: red;
-}
-p{
-    color: blueviolet;
+.form textarea{
+    background-color: #0c0b09 !important;
+    border: 3px solid #cda45e;
+    color: white;
 }

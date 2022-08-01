@@ -113,6 +113,7 @@ class ReservationController extends Controller
         $validReservation->idReservation= $Reservations;
 
         $validReservation->save();
+        return redirect()->route('index')->with('success','La reservation à été Valider');
 
     }
 

@@ -1740,7 +1740,11 @@ section {
   object-fit: cover;
 }
 .form input{
-  border-color: #DFAD33;
+  border-color: #cda45e;
+  background-color: #1a1814;
+}
+.form textarea{
+  border-color: #cda45e;
   background-color: #1a1814;
 }
 .form-costum input{
